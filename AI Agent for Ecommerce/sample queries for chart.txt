@@ -1,0 +1,4 @@
+Compare sales of different items in the dataset 
+
+What are the total sales for each product?
+
